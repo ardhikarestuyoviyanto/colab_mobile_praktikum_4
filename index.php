@@ -21,7 +21,7 @@
                         <label for="username">Username</label>
                     </div>
                     <div class="col-75">
-                        <input type="text" name="username">
+                        <input type="text" name="username" placeholder="admin">
                     </div>
                 </div>
 
@@ -30,7 +30,7 @@
                         <label for="username">Password</label>
                     </div>
                     <div class="col-75">
-                        <input type="password" name="password">
+                        <input type="password" name="password" placeholder="admin123">
                     </div>
                 </div>
 
