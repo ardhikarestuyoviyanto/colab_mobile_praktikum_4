@@ -1,5 +1,17 @@
-body{
+/* body{
     padding: 55px;
+} */
+
+.navbar{
+    background-color: black;
+    height: 100px;
+    margin: -23px;
+    text-align: center;
+    color: white;
+}
+
+.navbar-title{
+    padding-top: 33px;
 }
 
 .box{
@@ -75,6 +87,12 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: blue;
     line-height: 1.5;
+}
+
+.footer{
+    background-color: black;
+    height: 100px;
+    margin: -23px;
 }
 
 /*Responsive*/

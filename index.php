@@ -9,8 +9,12 @@
 </head>
 <body>
 
+    <div class="navbar">
+        <h1 class="navbar-title">Niko Kranjchar</h1>
+    </div>
+
     <!-- Halaman Templeate Yang Sama Dengan Dosen -->
-    <div class="row">
+    <div class="row" style="margin-top:40px;">
         <div class="box col-30">
 
             <!-- Formulir -->
