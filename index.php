@@ -118,7 +118,7 @@
             </div>
         </div>
     </div>
-    
+        
 </body>
     <?php if(isset($_GET['username_fails']) || isset($_GET['password_fails'])): ?>
         <script>alert('Username atau Password Salah')</script>
