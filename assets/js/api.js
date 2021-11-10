@@ -108,7 +108,7 @@ function getAnggotaKelompok(){
 
     for(let i=0; i<datakelompok.length; i++){
 
-        html += '<div class="col mt-5">'+
+        html += '<div class="col mt-3">'+
             '<div class="card text-center" style="width: 18rem;">'+
                 '<img src="assets/img/foto_kelompok/'+datakelompok[i].foto+'" style="height: 20rem;" >'+
                 '<div class="card-body">'+
@@ -129,3 +129,5 @@ function getAnggotaKelompok(){
 
 
 }
+
+getNews();
