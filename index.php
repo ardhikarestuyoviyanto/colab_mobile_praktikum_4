@@ -10,7 +10,6 @@
 <body>
 
     <!-- Halaman Templeate Yang Sama Dengan Dosen -->
-
     <div class="row">
         <div class="box col-30">
 
@@ -97,7 +96,7 @@
                 </div>
                 <br>
                 <p>
-                    <b>Lorem ipsum dolor sit amet consectetur adipisicing elit.</b> <i>Alias quidem delectus voluptatem aliquid provident laborum</i>, dignissimos ducimus ut fugiat magni eum ea cumque sunt doloremque. Deserunt corporis dolorum iusto. Illum!
+                    <b><a href="custom.html">Lorem ipsum dolor sit amet consectetur adipisicing elit.</a></b> <i>Alias quidem delectus voluptatem aliquid provident laborum</i>, dignissimos ducimus ut fugiat magni eum ea cumque sunt doloremque. Deserunt corporis dolorum iusto. Illum!
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores sint quam magnam atque quod dicta, labore ipsum amet fugiat at nemo numquam maxime in, quia natus eveniet ad provident animi.
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima expedita animi nam provident. <u>Accusantium libero veniam accusamus</u> dignissimos consequatur animi assumenda laborum cupiditate. Ullam porro, dicta fuga sequi maxime sed!
                 </p>
